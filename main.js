@@ -19,8 +19,4 @@ console.log(invoice + stock);
 console.log((balance - (car + food)) + (invoice + stock));
 
 // Итог
-let totalBalance;
-
-console.log(
-    totalBalance = ((balance - (car + food)) + (invoice + stock))   
-);
+let totalBalance = ((balance - (car + food)) + (invoice + stock))
